@@ -1,0 +1,61 @@
+<div class="sidebar pe-4 pb-3">
+  <nav class="navbar bg-light navbar-light flex-column align-items-start">
+    <a routerLink="/admin" routerLinkActive="active" class="navbar-brand mx-4 mb-3">
+      <h3 class="text-primary"><i class="fa fa-hashtag me-2"></i>DASHMIN</h3>
+    </a>
+
+    <div class="d-flex align-items-center ms-4 mb-4">
+      <div class="position-relative">
+        <img class="rounded-circle user-img" src="src/assets/img/user.jpg" alt="user" />
+        <div class="status-indicator bg-success"></div>
+      </div>
+      <div class="ms-3">
+        <h6 class="mb-0">Mohamed Suhail</h6>
+        <span>Admin</span>
+      </div>
+    </div>
+
+    <div class="navbar-nav w-100">
+
+      <a routerLink="/admin/dashboard" routerLinkActive="active" class="nav-item nav-link">
+        <i class="fa fa-tachometer-alt me-2"></i>Dashboard
+      </a>
+
+      <a routerLink="/admin/user" routerLinkActive="active" class="nav-item nav-link">
+        <i class="fa fa-laptop me-2"></i>Admin
+      </a>
+
+      <!-- Car Management (Toggle without white space) -->
+      <a class="nav-item nav-link" data-bs-toggle="collapse" href="#carMenu" role="button" aria-expanded="false">
+        <i class="fa fa-car me-2"></i>Car Management
+      </a>
+      <div class="collapse ps-4" id="carMenu">
+        <a routerLink="/admin/addcar" class="nav-link small">Add New Car</a>
+        <a routerLink="/admin/managecars" class="nav-link small">Manage Cars List</a>
+        <a routerLink="/admin/carcategory" class="nav-link small">Car Categories</a>
+        <a routerLink="/admin/caravailability" class="nav-link small">Car Availability</a>
+      </div>
+
+       <a class="nav-item nav-link" data-bs-toggle="collapse" href="#custMenu" role="button" aria-expanded="false">
+        <i class="fa fa-car me-2"></i>Customer
+      </a>
+      <div class="collapse ps-4" id="custMenu">
+        <a routerLink="/admin/addcustomer" class="nav-link small">New Customer</a>
+        <a routerLink="/admin/managecustomer" class="nav-link small">List Customer</a>
+        
+      </div>
+
+      <!-- Pages -->
+      <a class="nav-item nav-link" data-bs-toggle="collapse" href="#pagesMenu" role="button" aria-expanded="false">
+        <i class="far fa-file-alt me-2"></i>Pages
+      </a>
+      <div class="collapse ps-4" id="pagesMenu">
+        <a class="nav-link small" href="#">Sign In</a>
+        <a class="nav-link small" href="#">Sign Up</a>
+        <a class="nav-link small" href="#">404 Error</a>
+        <a class="nav-link small" href="#">Blank Page</a>
+      </div>
+
+    </div>
+  </nav>
+</div>

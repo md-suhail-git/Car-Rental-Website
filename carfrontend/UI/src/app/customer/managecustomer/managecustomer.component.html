@@ -1,0 +1,32 @@
+<div class="bg-light rounded h-100 p-4">
+    <h6 class="mb-4">All Customers List</h6>
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead class="table-primary">
+                <tr>
+                    <th>#</th>
+                    <th>Full Name</th>
+                    <th>Email</th>
+                    <th>Mobile No</th>
+                    <th>Address</th>
+                    <th>Created Date</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let cust of custList; let i = index">
+                    <td>{{ i + 1 }}</td>
+                    <td>{{ cust.fullName }}</td>
+                    <td>{{ cust.email }}</td>
+                    <td>{{ cust.mobileNo }}</td>
+                    <td>{{ cust.address }}</td>
+                    <td>{{ cust.createdDate | date:'short' }}</td>
+                    <td>
+                        <button class="btn btn-sm btn-primary mb-1" (click)="editCustomer(cust.customerId)">Edit</button>
+                        <button class="btn btn-sm btn-danger" (click)="deleteCustomer(cust.customerId)">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

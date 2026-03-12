@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Angular\\car\\carbackend\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_QNMDPQD_SQLEXPRESS/car/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\model\\customerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:model\\customerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\dbcontext\\carcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:dbcontext\\carcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\migrations\\20250722035738_four.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:migrations\\20250722035738_four.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\model\\cardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:model\\cardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_QNMDPQD_SQLEXPRESS/car/True/SqlTable/dbo.CarDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\migrations\\20250717144352_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:migrations\\20250717144352_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\migrations\\20250718124222_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:migrations\\20250718124222_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|c:\\angular\\car\\carbackend\\api\\migrations\\20250722052645_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB48B479-E2D4-4FE0-9958-C8FA9709FC7C}|api.csproj|solutionrelative:migrations\\20250722052645_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 359,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Customers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_QNMDPQD_SQLEXPRESS/car/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_QNMDPQD_SQLEXPRESS/car/True/SqlTable/dbo.Customers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-22T06:17:09.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250722052645_Fourth.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Migrations\\20250722052645_Fourth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250722052645_Fourth.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Migrations\\20250722052645_Fourth.cs",
+              "RelativeToolTip": "Migrations\\20250722052645_Fourth.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:26:45.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Model\\Booking.cs",
+              "RelativeDocumentMoniker": "Model\\Booking.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Model\\Booking.cs",
+              "RelativeToolTip": "Model\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:56:01.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerFeedback.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Model\\CustomerFeedback.cs",
+              "RelativeDocumentMoniker": "Model\\CustomerFeedback.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Model\\CustomerFeedback.cs",
+              "RelativeToolTip": "Model\\CustomerFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:54:33.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:54:07.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:53:20.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250722035738_four.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Migrations\\20250722035738_four.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250722035738_four.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Migrations\\20250722035738_four.cs",
+              "RelativeToolTip": "Migrations\\20250722035738_four.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:57:38.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "api.http",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\api.http",
+              "RelativeDocumentMoniker": "api.http",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\api.http",
+              "RelativeToolTip": "api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-22T05:47:44.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarContext.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\DBContext\\CarContext.cs",
+              "RelativeDocumentMoniker": "DBContext\\CarContext.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\DBContext\\CarContext.cs",
+              "RelativeToolTip": "DBContext\\CarContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:20:30.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250717144352_second.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Migrations\\20250717144352_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250717144352_second.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Migrations\\20250717144352_second.cs",
+              "RelativeToolTip": "Migrations\\20250717144352_second.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:43:53.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.CarDetails.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_QNMDPQD_SQLEXPRESS/car/True/SqlTable/dbo.CarDetails.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_QNMDPQD_SQLEXPRESS/car/True/SqlTable/dbo.CarDetails.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-19T14:18:32.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarDetails.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Model\\CarDetails.cs",
+              "RelativeDocumentMoniker": "Model\\CarDetails.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Model\\CarDetails.cs",
+              "RelativeToolTip": "Model\\CarDetails.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:40:24.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:55:47.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250718124222_third.cs",
+              "DocumentMoniker": "C:\\Angular\\car\\carbackend\\api\\Migrations\\20250718124222_third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250718124222_third.cs",
+              "ToolTip": "C:\\Angular\\car\\carbackend\\api\\Migrations\\20250718124222_third.cs",
+              "RelativeToolTip": "Migrations\\20250718124222_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:42:22.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

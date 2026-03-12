@@ -1,0 +1,50 @@
+.navbar-container {
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 1030;
+  background-color: #f8f9fa;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-item .dropdown-menu {
+  width: 300px;
+  min-width: unset;
+}
+
+.nav-item .dropdown-menu a {
+  color: #191C24;
+  font-size: 14px;
+}
+
+.nav-item .dropdown-menu a:hover {
+  background-color: #f3f6f9;
+}
+
+.sidebar-toggler {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+input[type="search"] {
+  width: 250px;
+  background-color: #fff;
+  box-shadow: none;
+  border: 1px solid #dee2e6;
+}
+
+.rounded-circle {
+  object-fit: cover;
+}
+
+@media (max-width: 575.98px) {
+  input[type="search"] {
+    width: 150px;
+  }
+}

@@ -1,0 +1,57 @@
+<div class="parent">
+  <div class="signup-container">
+
+    <!-- ✅ Registration Form -->
+    <form *ngIf="toggleForm" id="signup-form" class="signup-form">
+      <h2>Register Page</h2>
+
+      <div class="input-group">
+        <label for="username">Full name</label>
+        <input type="text" id="username" name="FullName" [(ngModel)]="registerobj.FullName" placeholder="Enter your full name" required>
+      </div>
+
+      <div class="input-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="Emailid" [(ngModel)]="registerobj.Emailid" placeholder="Enter your email" required>
+      </div>
+
+      <div class="input-group">
+        <label for="mobile">Mobile No</label>
+        <input type="text" id="mobile" name="MobileNo" [(ngModel)]="registerobj.MobileNo" placeholder="Enter your mobile number" required>
+      </div>
+
+      <div class="input-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="Password" [(ngModel)]="registerobj.Password" placeholder="Enter your password" required>
+      </div>
+
+      <button type="button" (click)="OnRegister()" class="submit-btn">Sign Up</button>
+
+      <div class="login-link">
+        <p (click)="toggleForm = false">Already have an account? <a>Sign In</a></p>
+      </div>
+    </form>
+
+    <!-- ✅ Login Form -->
+    <form *ngIf="!toggleForm" id="login-form" class="signup-form">
+      <h2>Login Page</h2>
+
+      <div class="input-group">
+        <label for="email-login">Email</label>
+        <input type="email" id="email-login" name="Emailid" [(ngModel)]="registerobj.Emailid" placeholder="Enter your email" required>
+      </div>
+
+      <div class="input-group">
+        <label for="password-login">Password</label>
+        <input type="password" id="password-login" name="Password" [(ngModel)]="registerobj.Password" placeholder="Enter your password" required>
+      </div>
+
+      <button type="button" (click)="onLogin()" class="submit-btn">Login</button>
+
+      <div class="login-link">
+        <p (click)="toggleForm = true">New here? <a>Sign Up</a></p>
+      </div>
+    </form>
+
+  </div>
+</div>

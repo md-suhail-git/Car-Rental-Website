@@ -1,0 +1,40 @@
+<div class="bg-light rounded h-100 p-4">
+    <h6 class="mb-4">All Cars List</h6>
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead class="table-primary">
+                <tr>
+                    <th>#</th>
+                    <th>Car ID</th>
+                    <th>Car Name</th>
+                    <th>Car Type</th>
+                    <th>Brand</th>
+                    <th>Price/Day</th>
+                    <th>Fuel Type</th>
+                    <th>Seats</th>
+                    <th>Image</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let car of carList; let i = index">
+                    <td>{{ i + 1 }}</td>
+                    <td>{{ car.carId }}</td>
+                    <td>{{ car.carName }}</td>
+                    <td>{{ car.carType }}</td>
+                    <td>{{ car.brand }}</td>
+                    <td>{{ car.pricePerDay }}</td>
+                    <td>{{ car.fuelType }}</td>
+                    <td>{{ car.seatingCapacity }}</td>
+                    <td>
+                        <img [src]="car.imageUrl" width="80" height="50" alt="Car Image">
+                    </td>
+                    <td>
+                        <button class="btn btn-sm btn-primary mb-1" (click)="editCar(car.carId)">Edit</button>
+                        <button class="btn btn-sm btn-danger" (click)="deleteCar(car.carId)">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
